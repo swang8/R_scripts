@@ -10,7 +10,6 @@ library(multtest)
 library(gplots)
 library(compiler) #for cmpfun
 
-
 #Import library (each time to start R)
 library(multtest)
 library("gplots")
